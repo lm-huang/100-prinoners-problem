@@ -12,10 +12,14 @@ This video elaborates on the problem and introduces the best strategy for this p
 
 https://www.youtube.com/watch?v=iSNsgj1OCLA&t=50s
 
-Click `1 prisoner trial`, you can get the result of the first prisoner following the best strategy.
+Click `1 prisoner trial` and the first cell to get the result of the first prisoner following the best strategy.
 
-Click `know their fate`, you can test the best strategy with all 100 prisoners and get their outcome.
+Click `know their fate` and the first cell to test the best strategy with all 100 prisoners and get their outcome.
 
-Click `Best Idea`, you can test the best strategy for 300 rounds to test the probability
+Click `Best Idea` and the first cell to test the best strategy for 300 rounds to test the probability
 
 <img src="figs/result.png" style="zoom:67%;" />
+
+百囚犯问题Java GUI
+具体问题的解释可参考 https://www.bilibili.com/video/BV17W4y1S7WR?vd_source=b1e7b556c3c545be2e8271ca1e9063b1
+运行GameGo.java，单击`Free Play`及第一格测试自己的策略，单击`Best Idea`和第一格，重复300次最优策略，可查最优策略的成功概率
