@@ -1,4 +1,4 @@
-A Java GUI demo to play and test strategies for [100 prisoner problems](https://en.wikipedia.org/wiki/100_prisoners_problem).
+## A Java GUI demo to play and test strategies for [100 prisoner problems](https://en.wikipedia.org/wiki/100_prisoners_problem).
 
 Applied double buffering to eliminate the flicker effect and utilized recursion to simulate repeated Bernoulli trials.
 
@@ -20,6 +20,6 @@ Click `Best Idea` and the first cell to test the best strategy for 300 rounds to
 
 <img src="figs/result.png" style="zoom:67%;" />
 
-百囚犯问题Java GUI
+## 百囚犯问题Java GUI
 具体问题的解释可参考 https://www.bilibili.com/video/BV17W4y1S7WR?vd_source=b1e7b556c3c545be2e8271ca1e9063b1
 运行GameGo.java，单击`Free Play`及第一格测试自己的策略，单击`Best Idea`和第一格，重复300次最优策略，可查最优策略的成功概率
